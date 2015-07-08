@@ -1,6 +1,11 @@
-Paylab Developer Challenge
+Playlab Developer Challenge
 ==========================
 
-> Usage: python parser.py sample.log
+> Python Usage: python parser.py sample.log
+> Ruby Usage: ruby parser.rb sample.log
 
-Tested with Python 2.7 and Python 3.4. No external dependances are needed.
+Python scripts have been tested with version 2.7 and 3.4
+
+Ruby scripts have been tested with 2.2.2
+
+No external dependences are needed for both Python and Ruby
